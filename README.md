@@ -2,8 +2,8 @@
 Various Android Material Design Implementation
 
 #Topics
-
--> Collapsing Toolbar
--> Floating action button and Snack Bar
--> Floating Label EditText
+<br />
+-> Collapsing Toolbar<br />
+-> Floating action button and Snack Bar<br />
+-> Floating Label EditText<br />
 -> Navigation Drawer under the toolbar
